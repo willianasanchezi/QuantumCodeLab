@@ -4,3 +4,4 @@ azure-quantum
 ipykernel
 ipympl
 jupyterlab
+python-dotenv
