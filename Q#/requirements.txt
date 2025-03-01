@@ -1,0 +1,6 @@
+qsharp
+qsharp-widgets
+azure-quantum
+ipykernel
+ipympl
+jupyterlab
