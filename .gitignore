@@ -1,3 +1,6 @@
 Q#/venv/
 Q#/.env
 Q#/.ipynb_checkpoints/
+Cirq/venv
+Cirq/.env
+Cirq/.ipynb_checkpoints/
