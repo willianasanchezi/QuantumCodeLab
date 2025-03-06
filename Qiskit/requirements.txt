@@ -4,3 +4,4 @@ matplotlib
 ipykernel
 jupyterlab
 python-dotenv
+pylatexenc
